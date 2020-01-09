@@ -1,0 +1,11 @@
+body, .principal{
+    padding: 10%;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+p, .btn, #imagem{
+    padding: 20px;
+    margin:20px;
+    font-family: 'Gloria Hallelujah', cursive;
+    text-align: center;
+}
